@@ -1,25 +1,29 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <events-2021 />
+  <page-footer />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Events2021 from './components/events-2021'
+import PageFooter from './components/pageFooter.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Events2021,
+    PageFooter,
   }
 }
 </script>
 
 <style>
+html {
+  background: #eee;
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
   margin-top: 60px;
 }
