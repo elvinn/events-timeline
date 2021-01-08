@@ -27,4 +27,8 @@ html {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+ol, ul {
+  padding-inline-start: 0;
+}
 </style>
