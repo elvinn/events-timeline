@@ -1,24 +1,5 @@
-# timeline
+# events-timeline
 
-## Project setup
-```
-npm install
-```
+记录下那些给予我巨大冲击、引人思考的事件，避免随时间流失而被逐渐遗忘。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+在线链接: https://elvinn.cn/events-timeline
