@@ -1,6 +1,23 @@
 <template>
   <div class="events-block">
     <el-timeline>
+      <el-timeline-item timestamp="2021/02/08" placement="top">
+        <el-card>
+          <h3>深圳发布二手房指导价</h3>
+          <p>2021 年 02 月 08 日中午，深圳市住建局发布住宅小区二手住房成交参考价格，涉及全市 3595 个小区，许多楼盘参考价比市场价便宜 3 万/平方米以上。</p>
+          <p>同时，住建局对参考价格的作用也在发文中进行了解释“有利于加大二手住房交易信息公开力度，引导市场理性交易，引导房地产经纪机构合理发布挂牌价格，引导商业银行合理发放二手住房贷款，防控个人住房信贷风险，稳定市场预期”，其中的关键在于两点：</p>
+          <p>1. <strong>引导房地产经纪机构合理发布挂牌价格</strong>，目前已无法在贝壳网站上查到深圳市二手房历史成交价，所有房源显示“暂无价格”。</p>
+          <p>2. <strong>引导商业银行合理发放二手住房贷款</strong>，有较大的可能导致银行仅按照参考价发放房贷，那么在短期市场价格不变的情况下，买房者需要付出高达五成的房贷。</p>
+          <p>这一政策的确可以暂时通过降低房贷总量，从而“防控个人住房信贷风险”，但是市场价格是否能止住大幅上升的势头，实现“稳定市场预期”呢？让我们拭目以待。</p>
+          
+          <el-divider />
+          <h4>住建局参考链接</h4>
+          <p>1. <a href="http://zjj.sz.gov.cn/xxgk/tzgg/content/post_8545777.html" target="_blank">深圳市房地产和城市建设发展研究中心关于发布深圳市住宅小区二手住房成交参考价格的通告</a></p>
+          <p>2. <a href="http://zjj.sz.gov.cn/xxgk/tzgg/content/post_8545773.html" target="_blank">《深圳市住房和建设局关于建立二手住房成交参考价格发布机制的通知》政策解读</a></p>
+          <p>3. <a href="http://zjj.sz.gov.cn/attachment/0/749/749839/8545777.pdf" target="_blank">深圳市住宅小区二手住房成交参考价格表.pdf</a></p>
+        </el-card>
+      </el-timeline-item>
+
       <el-timeline-item timestamp="2021/01/04" placement="top">
         <el-card>
           <h3>拼多多员工猝死，引发热议</h3>
